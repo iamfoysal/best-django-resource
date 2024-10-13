@@ -137,3 +137,50 @@
 - **[Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)** - Useful Django tutorials and guides for both beginners and advanced developers.
 - **[Wagtail CMS Documentation](https://docs.wagtail.org/en/stable/)** - Full documentation for Wagtail CMS.
 ---
+## Learning Resources
+
+### Official Documentation
+- **[Official Django Documentation](https://docs.djangoproject.com/en/stable/)** - The definitive guide to Django, covering all aspects of the framework.
+- **[Django REST Framework Docs](https://www.django-rest-framework.org/)** - Comprehensive documentation for building RESTful APIs using Django.
+
+### Books
+- **[Two Scoops of Django](https://www.twoscoopspress.com/collections/django/products/two-scoops-of-django-3-x)** - Best practices for Django development, covering various topics in detail.
+- **[Django for Beginners](https://djangoforbeginners.com/)** - A step-by-step guide to building web applications with Django for those new to the framework.
+- **[Django for APIs](https://djangoforapis.com/)** - A focused guide on building RESTful APIs with Django and Django REST Framework.
+- **[Django Unleashed](https://www.pearson.com/store/p/django-unleashed/P100000198378)** - A comprehensive book that covers advanced topics and best practices in Django development.
+- **[Django Design Patterns and Best Practices](https://www.packtpub.com/product/django-design-patterns-and-best-practices/9781838989712)** - Focuses on common design patterns and best practices in Django applications.
+
+### Online Courses
+- **[Real Python Django Tutorials](https://realpython.com/tutorials/django/)** - A collection of video tutorials and articles covering Django development for all levels.
+- **[Django Courses on Udemy](https://www.udemy.com/courses/search/?q=django)** - Various courses on Django covering beginner to advanced topics, with hands-on projects.
+- **[TestDriven.io](https://testdriven.io/courses/)** - Paid courses emphasizing test-driven development (TDD) with Django, covering various aspects from REST APIs to full-stack development.
+- **[Coursera: Django for Everybody](https://www.coursera.org/specializations/django)** - A specialization that teaches the basics of web development with Django, offered by the University of Michigan.
+- **[Codecademy: Learn Django](https://www.codecademy.com/learn/learn-django)** - An interactive course covering the fundamentals of Django and web application development.
+
+### Community and Tutorials
+- **[Django Packages](https://djangopackages.org/)** - A directory of reusable Django apps, tools, and projects, helping you discover packages suited to your needs.
+- **[Django Girls Tutorial](https://tutorial.djangogirls.org/)** - A beginner-friendly tutorial guiding you through building your first Django web application.
+- **[Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)** - A blog with a range of tutorials, articles, and tips for Django developers.
+- **[Django REST Framework Blog](https://www.django-rest-framework.org/community/)** - A community blog that shares updates, tutorials, and tips related to the Django REST Framework.
+
+### Video Tutorials
+- **[Corey Schafer’s Django Series](https://www.youtube.com/playlist?list=PL-osiE80TeTn5yOUyP4S6d0G8iA4XQf3g)** - A YouTube playlist that covers Django basics and advanced concepts.
+- **[Traversy Media Django Tutorials](https://www.youtube.com/playlist?list=PLillGF-RfqbY5vHkM7dX65b1tYqEJZ7x1)** - Another popular YouTube channel featuring comprehensive Django tutorials.
+- **[CodingEntrepreneurs Django Tutorials](https://www.youtube.com/user/CodingEntrepreneurs/playlists)** - A YouTube channel with a series of practical Django project tutorials.
+
+### Tools and Resources
+- **[Django Deployment Checklist](https://docs.djangoproject.com/en/stable/howto/deployment/checklist/)** - An essential checklist to ensure your Django app is production-ready.
+- **[PythonAnywhere](https://www.pythonanywhere.com/)** - An easy-to-use cloud platform to host and run your Django projects.
+- **[Heroku](https://www.heroku.com/)** - A cloud platform that simplifies deploying, managing, and scaling Django applications.
+- **[DigitalOcean’s Django Tutorials](https://www.digitalocean.com/community/tags/django)** - A collection of tutorials and articles on how to deploy and manage Django applications on DigitalOcean.
+
+### Advanced Learning
+- **[Django for Data Science](https://towardsdatascience.com/building-web-applications-with-django-for-data-science-bf429a86e309)** - A resource focused on integrating Django with data science projects.
+- **[Full Stack Python](https://www.fullstackpython.com/django.html)** - A comprehensive resource that covers various aspects of building web applications with Django and other technologies.
+
+### Forums and Discussion Groups
+- **[Django Forum](https://forum.djangoproject.com/)** - The official Django community forum for discussions, questions, and support.
+- **[Stack Overflow Django Tag](https://stackoverflow.com/questions/tagged/django)** - A Q&A site where you can ask and answer Django-related questions.
+- **[Reddit: r/django](https://www.reddit.com/r/django/)** - A community for Django developers to share news, tutorials, and questions.
+
+---
