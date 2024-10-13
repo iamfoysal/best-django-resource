@@ -121,3 +121,19 @@
 - **[PythonAnywhere](https://www.pythonanywhere.com/)** - An easy-to-use cloud platform to host Django projects.
 - **[Railway](https://railway.app/)** - A flexible platform to deploy and scale Django applications with Git integration.
 - **[Heroku](https://www.heroku.com/)** - A popular cloud platform that allows you to deploy, manage
+
+## Miscellaneous
+- **[django-extensions](https://github.com/django-extensions/django-extensions)** - A collection of custom extensions for the Django Framework.
+- **[django-statsd](https://github.com/etsy/django-statsd)** - StatsD integration for Django.
+---
+## Resources
+- **[Official Django Documentation](https://docs.djangoproject.com/en/stable/)** - Comprehensive guide and documentation for Django.
+- **[Two Scoops of Django](https://www.twoscoopspress.com/collections/django/products/two-scoops-of-django-3-x)** - Best practices for Django development.
+- **[Django Packages](https://djangopackages.org/)** - A directory of reusable apps, sites, tools, and more.
+- **[Django REST Framework Docs](https://www.django-rest-framework.org/)** - Full documentation for Django REST Framework.
+- **[Django Deployment Checklist](https://docs.djangoproject.com/en/stable/howto/deployment/checklist/)** - An essential checklist for deploying Django projects.
+- **[Real Python Django Tutorials](https://realpython.com/tutorials/django/)** - Comprehensive tutorials and guides on Django development.
+- **[TestDriven.io](https://testdriven.io/courses/)** - Paid courses and tutorials on Django with a focus on Test-Driven Development (TDD).
+- **[Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)** - Useful Django tutorials and guides for both beginners and advanced developers.
+- **[Wagtail CMS Documentation](https://docs.wagtail.org/en/stable/)** - Full documentation for Wagtail CMS.
+---
