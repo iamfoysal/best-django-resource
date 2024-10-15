@@ -2,7 +2,7 @@
 
 ---
 
-# Awesome Django [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+#  Best Django Resource [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 > A carefully curated list of the most useful packages, tools, and resources for Django developers. Whether you're building a simple web app or a complex enterprise-grade system, this guide will help you find the best tools to make Django development more efficient and enjoyable.
 
